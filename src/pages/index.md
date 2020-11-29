@@ -5,11 +5,8 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/andhra-banner1.jpg
-    content: >-
+    content: |
       # ENERGY TRANSFORMATION
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
     actions:
       - title: See all items
         url: /store
