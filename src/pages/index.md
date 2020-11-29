@@ -7,10 +7,7 @@ sections:
     background_image: images/andhra-banner1.jpg
     content: |
       # ENERGY TRANSFORMATION
-    actions:
-      - title: See all items
-        url: /store
-        arrow: true
+    actions: []
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
