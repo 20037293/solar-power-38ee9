@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: ''
+price: '52'
 title: Solar Power Mini Plus
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
