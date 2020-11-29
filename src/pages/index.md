@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/shutterstock_636564572-800x400.jpg
+    background_image: images/Cost-of-solar-panels-in-India.jpg
     content: >-
       # Real, beautiful plants right to your door
 
