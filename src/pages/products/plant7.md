@@ -1,7 +1,7 @@
 ---
 id: '7'
 price: '18.90'
-title: Solar Power Star 200W24
+title: Solar Power Star 200W 24
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/H6424c221177941caaa4b954d63125237E.jpg
 default_original_image: images/plant7-lg.jpg
