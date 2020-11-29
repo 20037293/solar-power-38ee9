@@ -1,5 +1,5 @@
 ---
-title: ' Range 150-350'
+title: ' Range 150v-350'
 order: 1
 section: Store
 template: category
