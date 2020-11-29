@@ -1,5 +1,5 @@
 ---
-title: High Voltage Panel
+title: ' Voltage Panel'
 order: 1
 section: Store
 template: category
