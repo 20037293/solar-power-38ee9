@@ -1,5 +1,5 @@
 ---
-title: Hi
+title: High
 order: 1
 section: Store
 template: category
