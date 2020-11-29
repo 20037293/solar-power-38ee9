@@ -1,6 +1,6 @@
 ---
 id: '7'
-price: '150'
+price: '220'
 title: Solar Power mini super star
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/H6424c221177941caaa4b954d63125237E.jpg
