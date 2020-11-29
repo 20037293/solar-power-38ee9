@@ -7,7 +7,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/71ERjVaTGPL._SL1280_.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/oval-pineapple.jpg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
