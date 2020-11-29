@@ -3,7 +3,7 @@ id: '9'
 price: '400.00'
 title: Solar Power S2 Star
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
-default_thumbnail_image: images/plant9.jpg
+default_thumbnail_image: images/SO.PO.1639888.jpg
 default_original_image: images/plant9-lg.jpg
 featured: true
 order: 9
