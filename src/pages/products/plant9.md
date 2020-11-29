@@ -4,7 +4,7 @@ price: '400.00'
 title: Solar Power S2 Star
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/HTB1DQqHX6rguuRjy0Feq6xcbFXar.jpg_350x350.jpg
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/happy-artichoke.jpg
 featured: true
 order: 9
 category: src/pages/category/cactuses.md
