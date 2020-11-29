@@ -3,7 +3,7 @@ id: '2'
 price: '99.00'
 title: Solar Power mini plus
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: 'images/41QYkpPEU7L._AC_SR160,160_.jpg'
+default_thumbnail_image: images/H5f958f229c9f4d728e83bc31cf18f1e9B.png
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: src/pages/category/cactuses.md
