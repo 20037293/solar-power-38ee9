@@ -1,5 +1,5 @@
 ---
-title: Cactuse25w
+title: range
 order: 2
 section: Store
 template: category
