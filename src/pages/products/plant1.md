@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: ''
+price: '40'
 title: Solar power mini
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
