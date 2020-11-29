@@ -4,7 +4,7 @@ price: '135'
 title: Solar Power Star 200W 24V Polycrystalline
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/H6424c221177941caaa4b954d63125237E.jpg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/futuristic-mustard.jpg
 order: 7
 category: src/pages/category/bigplants.md
 section: Store
