@@ -11,10 +11,6 @@ sections:
       - title: See all items
         url: /store
         arrow: true
-      - title: lorem-ipsum
-        url: lorem-ipsum
-        arrow: false
-        type: action
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
