@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '269'
+price: ''
 title: Solar Power  S1
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/SO.PO.1624870.jpg
