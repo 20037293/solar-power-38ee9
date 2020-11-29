@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '220'
+price: '2170'
 title: Solar power mini star
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/112843348TataSolarPanel14855810691489057098.jpg
