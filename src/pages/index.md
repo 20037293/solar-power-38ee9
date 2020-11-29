@@ -6,7 +6,7 @@ sections:
     section_id: hero_section
     background_image: images/andhra-banner1.jpg
     content: >-
-      # Real, beautiful plants right to your door
+      # ENERGY TRANSFORMATION
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
