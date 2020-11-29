@@ -1,5 +1,5 @@
 ---
-title: ' '
+title: ' range'
 order: 1
 section: Store
 template: category
