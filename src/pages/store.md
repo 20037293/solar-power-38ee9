@@ -22,7 +22,8 @@ sections:
       url: /store
   - section_id: lorem-ipsum
     title: ghuman
-    featured_categories: []
+    featured_categories:
+      - src/pages/category/category-cgdium0pi.md
     type: featured_categories_section
 template: store
 ---
