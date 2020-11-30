@@ -1,6 +1,6 @@
 ---
 title: 'range '
 order: 3
-section: Store
+section: About
 template: category
 ---
