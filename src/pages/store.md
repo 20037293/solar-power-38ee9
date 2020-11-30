@@ -21,7 +21,7 @@ sections:
       title: Discover
       url: /store
   - section_id: lorem-ipsum
-    title: ''
+    title: ghuman
     featured_categories: []
     type: featured_categories_section
 template: store
