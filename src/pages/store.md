@@ -20,5 +20,7 @@ sections:
     cta:
       title: Discover
       url: /store
+  - section_id: lorem-ipsum
+    type: store_section
 template: store
 ---
