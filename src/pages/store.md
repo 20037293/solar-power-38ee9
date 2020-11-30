@@ -26,4 +26,5 @@ sections:
       - src/pages/category/category-cgdium0pi.md
     type: featured_categories_section
 template: store
+white_header: true
 ---
