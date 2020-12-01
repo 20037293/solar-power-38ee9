@@ -7,30 +7,29 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: We are Planty
     subtitle: >-
-      [SOLAR
-      PANEL](https://economictimes.indiatimes.com/definition/Solar-Panel)— are
-      used to convert sun energy into electicity. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+      ###### **[SOLAR POWER](https://en.wikipedia.org/wiki/Solar_power)— are
+      used to convert sun energy into electicity. **
 
-      To give satisfaction to the customer is the vision of our solar plant
-      industry. In our organization, the main motive to give more satisfaction
-      to the customer at low charges. In addition, we provide high quality
-      material which is used in installation the system at consumer’s home with
-      low cost. Moreover, provide free installation engineer to the consumer
-      without any cost. Due to this, installation of system become safer for
-      customer as well as maintains will done very easily way in the future.
+       To give satisfaction to the customer is the vision of our solar plant industry. In our organization, the main motive to give more satisfaction to the customer at low charges.
+
+      In addition, we provide high quality material which is used in
+      installation the system at consumer’s home with low cost. Moreover,
+      provide free installation engineer to the consumer without any cost. Due
+      to this, installation of system become safer for customer as well as
+      maintains will done very easily way in the future. 
+
+
       Furthermore, drawing or layout of wiring are also provided by our
       organization to the customers which would be very essential in the future
-      because when any problem will occur regarding wiring circuits then our
+      because when any problem will occur regarding wiring circuit then our
       executive will solve problem without any destructions the whole wiring. In
-      this way, time of customer will not be waste. We use heavy load wire in
+      this way, time of customer will not be waste. We use high quality wire in
       the system because good quality of wire is more secure and some fuse is
-      also added between supplies which would it safer. Adding more, customers
-      take a lot benefits from our business such as long term warranty system,
-      maintains service and so on.
+      also added between supplies which would make it safer. 
+
+
+      Adding more, customers take a lot benefit from our business such as long
+      term warranty system, maintains service and so on.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
