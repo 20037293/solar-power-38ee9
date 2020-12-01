@@ -55,7 +55,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: from $
+    subtitle: from $5000
     image: images/Solar Power Plant.jpg
     cta:
       title: Discover
