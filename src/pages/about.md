@@ -54,7 +54,7 @@ sections:
         image: images/majestic-maple.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: 'A complete '
+    title: A complete home system
     subtitle: from $5000
     image: images/Solar Power Plant.jpg
     cta:
