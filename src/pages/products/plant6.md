@@ -5,7 +5,7 @@ title: Solar power mini star
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/112843348TataSolarPanel14855810691489057098.jpg
 default_original_image: images/plant6-lg.jpg
-order: 4
+order: 6
 category: src/pages/category/bigplants.md
 section: Store
 template: product
