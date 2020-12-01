@@ -1,15 +1,6 @@
 ---
 title: Store
 sections:
-  - type: featured_products_section
-    section_id: featured_products_section
-    title: Best sellers
-    icon: true
-    featured_products:
-      - src/pages/products/plant1.md
-      - src/pages/products/plant3.md
-      - src/pages/products/plant5.md
-      - src/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
@@ -20,6 +11,15 @@ sections:
       url: /store
   - type: store_section
     section_id: store_section1
+  - type: featured_products_section
+    section_id: featured_products_section
+    title: Best sellers
+    icon: true
+    featured_products:
+      - src/pages/products/plant1.md
+      - src/pages/products/plant3.md
+      - src/pages/products/plant5.md
+      - src/pages/products/plant7.md
 template: store
 white_header: true
 ---
