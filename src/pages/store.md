@@ -1,8 +1,6 @@
 ---
 title: Store
 sections:
-  - type: store_section
-    section_id: store_section1
   - type: featured_products_section
     section_id: featured_products_section
     title: Best sellers
@@ -20,6 +18,8 @@ sections:
     cta:
       title: Discover
       url: /store
+  - type: store_section
+    section_id: store_section1
 template: store
 white_header: true
 ---
