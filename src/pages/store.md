@@ -13,6 +13,7 @@ sections:
       - src/pages/products/plant5.md
       - src/pages/products/plant7.md
       - src/pages/products/product-is5gst8o0.md
+      - src/pages/products/product-dzoxmpl1p.md
 template: store
 white_header: false
 ---
