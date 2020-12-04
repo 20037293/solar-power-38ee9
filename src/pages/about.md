@@ -42,11 +42,12 @@ sections:
         image: images/fabulous-lime.jpg
       - title: We think solar panel are the future
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+          Day by day we consume [fosil
+          fuel](https://en.wikipedia.org/wiki/Fossil_fuel) a lot. So, one day, i
+          think these resources are found rare in the World. Due to this, we
+          have need to change the method of generate of energy. I think [Solar
+          Panel System](https://en.wikipedia.org/wiki/Solar_panel) is first and
+          better way to genrate the energy and furture of world.
         image: images/majestic-maple.jpg
   - type: promotion_section
     section_id: promotion_section
