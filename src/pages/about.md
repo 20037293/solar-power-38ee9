@@ -40,7 +40,7 @@ sections:
           orgasation have it moral duty to save environment. solar panel not
           produce any type of pollution in the environment which is best for us.
         image: images/fabulous-lime.jpg
-      - title: We think solar panl  are the future
+      - title: We think solar panel are the future
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
