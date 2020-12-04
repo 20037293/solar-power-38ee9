@@ -2,7 +2,7 @@
 title: Store
 sections:
   - type: store_section
-    section_id: ''
+    section_id: RISK
   - type: featured_products_section
     section_id: featured_products_section
     title: Best sellers
