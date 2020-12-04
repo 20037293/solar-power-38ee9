@@ -12,7 +12,7 @@ sections:
     section_id: best_sellers_section
     title: Best sellers
     icon: false
-    light_title: false
+    light_title: true
     featured_products:
       - src/pages/products/plant1.md
       - src/pages/products/plant3.md
