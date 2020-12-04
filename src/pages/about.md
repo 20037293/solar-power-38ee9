@@ -35,14 +35,10 @@ sections:
     bulletpoints:
       - title: We love environment
         description: >-
-          Now THAT is true, but we love environment even more. We talk about it
-          on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live
-          demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+          Now THAT is true,  we love environment. because, pollution free
+          environment is neccessary for every living thing on the planet. Our
+          orgasation have it moral duty to save environment. solar panel not
+          produce any type of pollution in the environment which is best for us.
         image: images/fabulous-lime.jpg
       - title: We think plants are the future
         description: >-
