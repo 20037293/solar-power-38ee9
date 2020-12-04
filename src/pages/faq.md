@@ -56,4 +56,5 @@ sections:
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
+white_header: true
 ---
