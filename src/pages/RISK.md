@@ -3,7 +3,7 @@ title: RISK
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: ''
+  - section_id: RRR
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
