@@ -15,5 +15,5 @@ sections:
       - src/pages/products/product-is5gst8o0.md
       - src/pages/products/product-dzoxmpl1p.md
 template: store
-white_header: true
+white_header: false
 ---
