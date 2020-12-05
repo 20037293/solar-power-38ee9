@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/oceanic-hedgehog.jpg
+    background_image: images/26a1.png
     headline: Behold our FAQ
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
