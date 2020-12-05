@@ -5,7 +5,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: ''
+    headline: market
     subtitle: >-
       ###### **[SOLAR POWER](https://en.wikipedia.org/wiki/Solar_power)— are
       used to convert sun energy into electicity. **
