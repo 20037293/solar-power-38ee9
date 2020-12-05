@@ -58,5 +58,5 @@ sections:
       title: Discover
       url: /store
 template: advanced
-white_header: true
+white_header: false
 ---
