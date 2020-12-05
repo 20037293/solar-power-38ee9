@@ -15,7 +15,7 @@ sections:
 
       - dolor sit amet
     type: header_section
-  - section_id: lorem-ipsum
+  - section_id: FFFF
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
