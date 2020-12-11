@@ -3,7 +3,7 @@ title: RISK
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: RRR
+  - section_id: Risk
     headline: risk
     subtitle: >-
       ## MAJOR RISKS AND ITS SOLUTION:
