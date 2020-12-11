@@ -5,7 +5,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: images/26a1.png
-    headline: 'policy of '
+    headline: policy of indusr
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions for e-commerce merchants.
