@@ -53,7 +53,7 @@
         },
         {
             "title": "Finance",
-            "url": "/about",
+            "url": "/finance",
             "arrow": false,
             "type": "action"
         },
