@@ -6,7 +6,10 @@ sections:
     section_id: header_section
     background_image: images/26a1.png
     headline: Policy of industry
-    subtitle: It is the plan of business how to run and grow the business.
+    subtitle: |
+      It is the plan of business how to run and grow the business.
+      * It is long term plan how to work. 
+      * It is road map of the organisation.
   - type: faq_section
     section_id: faq_section
     questions:
