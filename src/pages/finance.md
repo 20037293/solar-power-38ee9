@@ -1,5 +1,5 @@
 ---
-title: ''
+title: finance
 page_css_class: lorem-ipsum
 white_header: false
 sections: []
