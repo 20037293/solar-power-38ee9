@@ -1,6 +1,6 @@
 ---
 title: RISK
-page_css_class: lorem-ipsum
+page_css_class: risk
 white_header: false
 sections:
   - section_id: Risk
