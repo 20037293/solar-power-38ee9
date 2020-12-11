@@ -47,13 +47,13 @@
         },
         {
             "title": "Marketing",
-            "url": "/about",
+            "url": "/market",
             "arrow": false,
             "type": "action"
         },
         {
             "title": "Finance",
-            "url": "/about",
+            "url": "/finance",
             "arrow": false,
             "type": "action"
         },
