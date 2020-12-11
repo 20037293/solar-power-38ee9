@@ -6,9 +6,7 @@ sections:
     section_id: header_section
     background_image: images/26a1.png
     headline: Policy of industry
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: It is the plan of business how to run and grow the business
   - type: faq_section
     section_id: faq_section
     questions:
