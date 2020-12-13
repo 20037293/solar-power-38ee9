@@ -18,17 +18,7 @@ sections:
   - section_id: Finance Growth
     bulletpoints:
       - title: Finanve Growth
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: 'worldwide, the growth of solar power plant increases day by day.'
     type: bulletpoints_section
 template: advanced
 ---
