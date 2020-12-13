@@ -19,6 +19,7 @@ sections:
     bulletpoints:
       - title: Finanve Growth
         description: 'worldwide, the growth of solar power plant increases day by day.'
+        image: images/business-finance-graph-chart-3d-260nw-1200692347.jpg
     type: bulletpoints_section
 template: advanced
 ---
