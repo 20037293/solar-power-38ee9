@@ -22,17 +22,12 @@ sections:
   - section_id: Our Plan
     bulletpoints:
       - title: Plan
-        description: >-
-          ## Lorem ipsum
+        description: >
+          ## services
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We have provide online services. Here we can book your order and
+          provide door to door service.
     type: bulletpoints_section
 template: advanced
 white_header: false
