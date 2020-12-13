@@ -35,6 +35,6 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
-    background_image: images/Effect-On-The-Performance-Of-The-Solar-Panels-in-Cold-Climate.jpg
+    background_image: images/images (2).jpg
 template: advanced
 ---
