@@ -21,7 +21,7 @@ sections:
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
   - section_id: Our Plan
     bulletpoints:
-      - title: ''
+      - title: Plan
         description: >-
           ## Lorem ipsum
 
