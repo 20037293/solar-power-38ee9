@@ -28,6 +28,7 @@ sections:
 
           We have provide online services. Here we can book your order and
           provide door to door service.
+        image: images/Solar-power-plant-for-homes-and-business.png
     type: bulletpoints_section
 template: advanced
 white_header: false
