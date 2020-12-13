@@ -33,6 +33,7 @@ sections:
 
           ** Our organisation have 83 branches warld wide. at this store we
           provides every service related to solar power plant activity.
+        image: images/solar-power-plant-installation-1516793174-3605382.jpeg
     type: bulletpoints_section
   - section_id: lorem-ipsum
     bulletpoints: []
