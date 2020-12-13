@@ -36,7 +36,7 @@ sections:
       financial risk.
     type: header_section
     background_image: images/powerplant-pti.jpg
-  - section_id: ''
+  - section_id: Risk
     bulletpoints:
       - title: lorem-ipsum
         description: >-
