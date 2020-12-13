@@ -15,7 +15,7 @@ sections:
 
       - Dept Funding
     type: header_section
-  - section_id: lorem-ipsum
+  - section_id: Finance Groeth
     bulletpoints:
       - title: lorem-ipsum
         description: >-
