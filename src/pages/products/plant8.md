@@ -1,6 +1,6 @@
 ---
 id: '8'
-price: '50.00'
+price: '250.00'
 title: Solar Power plus plus
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/Ha187c5e6119f4753a0a01a926f39882eP.png
