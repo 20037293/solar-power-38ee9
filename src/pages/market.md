@@ -27,7 +27,7 @@ sections:
     type: header_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: 'Online '
+      - title: 'Online Market '
         description: >-
           ## Lorem ipsum
 
