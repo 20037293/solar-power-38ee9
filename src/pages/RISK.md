@@ -40,16 +40,8 @@ sections:
     bulletpoints:
       - title: Bad weather condition
         description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          In Bad weather condition, solar panels stop working in the bad 
+          weather like snow fall, cloudy day etc,.
     type: bulletpoints_section
 template: advanced
 ---
