@@ -19,6 +19,9 @@ sections:
     phone: +1672-273393
     email: solarpower.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: advanced
 white_header: false
 ---
