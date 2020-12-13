@@ -27,7 +27,7 @@ sections:
     type: header_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: Online Market Store
+      - title: Market Store
         description: >-
           ## Market Store
 
