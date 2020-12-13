@@ -4,7 +4,7 @@ page_css_class: risk
 white_header: false
 sections:
   - section_id: Risk
-    headline: risk
+    headline: Risk
     subtitle: >-
       ## MAJOR RISKS AND ITS SOLUTION:
 
