@@ -17,7 +17,7 @@ sections:
     type: header_section
   - section_id: Finance Growth
     bulletpoints:
-      - title: ''
+      - title: Finanve Growth
         description: >-
           ## Lorem ipsum
 
