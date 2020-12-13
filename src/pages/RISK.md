@@ -35,6 +35,6 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
-    background_image: images/solar-power-plant_Image-by-Andreas-Troll-from-Pixabay.jpg
+    background_image: images/01668-9.8kW-Leona-Schwarzhoff-2019-Residential-scaled.jpeg
 template: advanced
 ---
