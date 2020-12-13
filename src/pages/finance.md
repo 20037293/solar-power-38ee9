@@ -10,14 +10,18 @@ sections:
       power plant, on the genernal basis, their are two types of funding.
 
 
+
       - Equit Funding
+
 
 
       in this funding, 20% funding is internal and 25%funding is external
       investors are participate in this organisation.
 
 
+
       - Dept Funding
+
 
 
       The of funding take from bank as loan.
