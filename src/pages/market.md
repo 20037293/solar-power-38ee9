@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     headline: Market
-    subtitle: >-
+    subtitle: >+
 
       Now a days, due to the shortage of natural Fossil fuel (which is used to
       produce electricity) we face problem in the future. So due to this, we
@@ -15,6 +15,7 @@ sections:
 
       To see this all, our organisation was decide to setup a industry in which
       we produce a solar system items.
+
     type: header_section
 template: advanced
 ---
