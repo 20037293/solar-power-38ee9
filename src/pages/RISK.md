@@ -38,7 +38,7 @@ sections:
     background_image: images/powerplant-pti.jpg
   - section_id: Risk
     bulletpoints:
-      - title: Bad weather
+      - title: Bad weather candation
         description: >-
           ## Lorem ipsum
 
