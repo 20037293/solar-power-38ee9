@@ -12,7 +12,7 @@ sections:
       Now a days, due to the shortage of natural Fossil fuel (which is used to
       produce electricity) we face problem in the future. So due to this, we
       have need to change our future today. this is only possible, if we use
-      solar energy, which not depletedwhen used.
+      solar energy, which not depleted when used.
 
 
       To see this all, our organisation was decide to setup a industry in which
