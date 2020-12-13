@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     headline: Finance
-    subtitle: >-
+    subtitle: >+
       It is difficult to set paper work for establish a new project of solar
       power plant, on the genernal basis, their are two types of funding.
 
@@ -24,7 +24,9 @@ sections:
 
 
 
-      **The of funding take from bank as loan.
+      **This funding is take from bank as loan.
+
+
     type: header_section
   - section_id: Finance Growth
     bulletpoints:
