@@ -42,6 +42,7 @@ sections:
         description: >-
           In Bad weather condition, solar panels stop working in the bad 
           weather like snow fall, cloudy day etc,.
+        image: images/blue-sparrow.jpeg
     type: bulletpoints_section
 template: advanced
 ---
