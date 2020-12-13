@@ -35,5 +35,6 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
+    background_image: images/solar-power-plant_Image-by-Andreas-Troll-from-Pixabay.jpg
 template: advanced
 ---
