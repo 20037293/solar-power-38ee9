@@ -17,7 +17,7 @@ sections:
     type: header_section
   - section_id: Finance Growth
     bulletpoints:
-      - title: lorem-ipsum
+      - title: ''
         description: >-
           ## Lorem ipsum
 
