@@ -29,16 +29,10 @@ sections:
     bulletpoints:
       - title: Online Market Store
         description: >-
-          ## Lorem ipsum
+          ## Market Store
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ** Our organisation have 83 branches warld wide. at this store we
+          provides every service related to solar power plant activity.
     type: bulletpoints_section
   - section_id: lorem-ipsum
     bulletpoints: []
