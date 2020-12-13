@@ -6,8 +6,6 @@ sections:
   - section_id: lorem-ipsum
     headline: Market
     subtitle: >-
-      **Market**
-
 
       Now a days, due to the shortage of natural Fossil fuel (which is used to
       produce electricity) we face problem in the future. So due to this, we
