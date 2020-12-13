@@ -16,7 +16,7 @@ sections:
 
 
       **in this funding, 20% funding is internal and 25%funding is external
-      investors are participate in this organisation.
+      investors are participate in this organisation.    
 
 
 
