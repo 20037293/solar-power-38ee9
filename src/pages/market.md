@@ -25,5 +25,8 @@ sections:
       achieve this target very soon. 
 
     type: header_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: advanced
 ---
