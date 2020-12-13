@@ -6,16 +6,14 @@ sections:
   - section_id: lorem-ipsum
     headline: finance
     subtitle: >-
-      ## Lorem ipsum
+      It is difficult to set paper work for establish a new project of solar
+      power plant, on the genernal basis, their are two types of funding.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - Equit Funding
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      - Dept Funding
     type: header_section
 template: advanced
 ---
