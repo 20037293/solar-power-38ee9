@@ -35,14 +35,5 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: lorem-ipsum
-      arrow: false
-      type: action
-    type: promotion_section
 template: advanced
 ---
