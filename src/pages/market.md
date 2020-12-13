@@ -27,7 +27,7 @@ sections:
     type: header_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: 'lorem-ipsumonline '
+      - title: 'Online '
         description: >-
           ## Lorem ipsum
 
