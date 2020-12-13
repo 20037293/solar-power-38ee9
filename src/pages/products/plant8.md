@@ -3,7 +3,7 @@ id: '8'
 price: '50.00'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
-default_thumbnail_image: images/plant8.jpg
+default_thumbnail_image: images/Ha187c5e6119f4753a0a01a926f39882eP.png
 default_original_image: images/plant8-lg.jpg
 order: 8
 category: src/pages/category/summer.md
