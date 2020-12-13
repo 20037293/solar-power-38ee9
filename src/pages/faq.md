@@ -16,7 +16,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: '116, solar power,NH-7 Road, Gharachon, sangrur, punjab, india'
-    phone: +1672-273
+    phone: +1672-273393
     email: solarpower.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
