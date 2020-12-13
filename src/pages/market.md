@@ -31,7 +31,7 @@ sections:
         description: >-
           ## Market Store
 
-          ** Our organisation have 83 branches warld wide. at this store we
+          ** Our organisation have 83 branches world wide. at this store we
           provides every service related to solar power plant activity.
         image: images/solar-power-plant-installation-1516793174-3605382.jpeg
     type: bulletpoints_section
