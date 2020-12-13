@@ -35,6 +35,6 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
-    background_image: images/images (2).jpg
+    background_image: images/powerplant-pti.jpg
 template: advanced
 ---
