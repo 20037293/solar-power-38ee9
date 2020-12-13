@@ -35,6 +35,6 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
-    background_image: images/01668-9.8kW-Leona-Schwarzhoff-2019-Residential-scaled.jpeg
+    background_image: images/Effect-On-The-Performance-Of-The-Solar-Panels-in-Cold-Climate.jpg
 template: advanced
 ---
