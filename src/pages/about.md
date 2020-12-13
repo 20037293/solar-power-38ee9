@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/1450408154.jpg
+    background_image: images/nervous-dolphin.jpg
     headline: Solar System
     subtitle: >-
       ###### **[SOLAR POWER](https://en.wikipedia.org/wiki/Solar_power)— are
