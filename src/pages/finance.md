@@ -15,7 +15,7 @@ sections:
 
 
 
-      in this funding, 20% funding is internal and 25%funding is external
+      **in this funding, 20% funding is internal and 25%funding is external
       investors are participate in this organisation.
 
 
@@ -24,7 +24,7 @@ sections:
 
 
 
-      The of funding take from bank as loan.
+      **The of funding take from bank as loan.
     type: header_section
   - section_id: Finance Growth
     bulletpoints:
