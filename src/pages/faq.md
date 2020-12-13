@@ -23,7 +23,6 @@ sections:
     bulletpoints:
       - title: Plan
         description: >
-          ## services
 
 
           We have provide online services. Here we can book your order and
