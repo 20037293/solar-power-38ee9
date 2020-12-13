@@ -35,7 +35,6 @@ sections:
       produce product according to requirement .In this way, we can reduce the
       financial risk.
     type: header_section
-    background_image: images/powerplant-pti.jpg
   - section_id: Risk
     bulletpoints:
       - title: Bad weather condition
